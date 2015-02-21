@@ -1,0 +1,1 @@
+strings.d: ../strings.c
